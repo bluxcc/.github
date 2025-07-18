@@ -1,4 +1,4 @@
-![blux_concept](../concept_2.png)
+![blux_concept](../blux-concept.png)
 # Blux ⎯ Wallet infrastructure 
 Blux is a comprehensive authentication and wallet connect kit designed for Stellar dApps. It simplifies onboarding by integrating multiple authentication methods, including wallets, email, phone, and OAuth. With Blux, developers can create seamless multi-auth experiences without the complexity of building custom authentication solutions from scratch.
 
